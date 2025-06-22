@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Semsary",
+    "slug": "MyAwesomeApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon1.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/main2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/main2.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.badawy403.Semsary"
+    },
+    "web": {
+      "favicon": "./assets/main2.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c98e08c5-09df-47be-a221-b52252eae4c2"
+      }
+    }
+  }
+}
