@@ -11,10 +11,8 @@ A React Native mobile application that provides a seamless web view experience f
 The Semsary mobile app is built using React Native and leverages web view technology to provide users with access to the full Semsary platform on mobile devices. The app combines the performance of native mobile applications with the flexibility of web-based content.
 
 <div align="center">
-  <!-- <img src="repoAssets/images/img1.png" alt="App Screenshot 1" width="300"/> -->
   <img src="repoAssets/images/img2.png" alt="App Screenshot 2" width="900"/>
 </div>
-
 
 ## Features
 
@@ -34,27 +32,40 @@ The Semsary mobile app is built using React Native and leverages web view techno
 - **Metro**: React Native bundler
 - **Flipper**: Debugging and development tools
 
-
-
-
 ## Screenshots
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="repoAssets/images/Screen (7).png" alt="Screen 1" width=" "/></td>
-      <td><img src="repoAssets/images/Screen (2).png" alt="Screen 2" width=""/></td>
-      <td><img src="repoAssets/images/Screen (3).png" alt="Screen 3" width=""/></td>
+      <td><img src="repoAssets/images/Screen (7).png" alt="Screen 1" width="250"/></td>
+      <td><img src="repoAssets/images/Screen (2).png" alt="Screen 2" width="250"/></td>
+      <td><img src="repoAssets/images/Screen (3).png" alt="Screen 3" width="250"/></td>
     </tr>
     <tr>
-      <td><img src="repoAssets/images/Screen (4).png" alt="Screen 4" width=""/></td>
-      <td><img src="repoAssets/images/Screen (5).png" alt="Screen 5" width=""/></td>
-      <td><img src="repoAssets/images/Screen (6).png" alt="Screen 6" width=""/></td>
+      <td><img src="repoAssets/images/Screen (4).png" alt="Screen 4" width="250"/></td>
+      <td><img src="repoAssets/images/Screen (5).png" alt="Screen 5" width="250"/></td>
+      <td><img src="repoAssets/images/Screen (6).png" alt="Screen 6" width="250"/></td>
     </tr>
   </table>
 </div>
 
+##  Download Now
 
+<div align="center">
+  
+  ###  Ready to Experience Semsary?
+  
+  <a href="https://github.com/Semsary/Application/releases/download/1.0.0/application-920b5294-8cfd-4d8c-91ac-a79c7751f378.apk">
+    <img src="https://img.shields.io/badge/Download%20APK-v1.0.0-brightgreen?style=for-the-badge&logo=android&logoColor=white" alt="Download APK"/>
+  </a>
+  
+  **📦 Latest Release:** `v1.0.0`  
+  **📏 File Size:** ~55.1 MB  
+  
+  🔗 **All Releases:** [View on GitHub](https://github.com/Semsary/Application/releases)
+  
+
+</div>
 
 ## Project Structure
 
@@ -73,6 +84,3 @@ Application/
 ├── metro.config.js
 └── README.md
 ```
-
-##  Screenshots
-
